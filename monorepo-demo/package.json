@@ -1,0 +1,12 @@
+{
+  "name": "monorepo-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test:dev": "pnpm --filter @xiaolin/* run test:dev"
+  },
+  "keywords": [],
+  "author": "Heyi",
+  "license": "ISC"
+}
